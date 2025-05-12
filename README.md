@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    
 ---
 
-- 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formandome profesionalmente en la Tecnicatura Universitaria en Programacion en La facultad UTN, orientandome Como DevBackend.
+- 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formandome profesionalmente en la Tecnicatura Universitaria en Programacion en La facultad UTN, Como Programador Backend.
 
 #### 🔧 Languajes
 
@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+#### 🔧 Contacto
+
+[![Gmail](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](caincito.cabrera7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2387D84B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541126663600)
+
+
+
+
  
  <div align=center>
 
