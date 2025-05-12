@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   HOLA! Mi nombre es Cain Cabrera!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
+   
 ---
 
 - 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formandome profesionalmente en la Tecnicatura Universitaria en Programacion en La facultad UTN, orientandome Como DevBackend.
