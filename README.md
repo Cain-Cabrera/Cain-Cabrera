@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formando Con la Tecnicatura Universitaria en Programacion, orientandome Como DevBackend.
-
-
-## 🛠 &nbsp;Tech Stack
+- 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formandome profesionalmente en la Tecnicatura Universitaria en Programacion en La facultad UTN, orientandome Como DevBackend.
 
 #### 🔧 Languajes
 
@@ -51,16 +48,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
-
  
  ### ⏱ Streak Stats
  
@@ -70,17 +57,4 @@ Here are some ideas to get you started:
 
  </div>
  
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🔗 &nbsp;Contact Me
-
-<div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</div>
-
 
