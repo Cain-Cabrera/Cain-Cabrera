@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cain-Cabrera&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Cain-Cabrera's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cain-Cabrera&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=7f8c8d&line_height=25" alt="Cain-Cabrera's GitHub Stats">
   <br /><br />
 </div>
 
