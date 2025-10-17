@@ -8,7 +8,6 @@
 </div>
 
 <h3 align="center">
-  HOLA! Mi nombre es Cain Cabrera!
    
 ---
 
