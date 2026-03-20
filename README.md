@@ -1,46 +1,95 @@
-
-<!--
-**Cain-Cabrera/Cain-Cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Caín%20Cabrera&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descColor=7eb8f7)
+
 </div>
 
-<h3 align="center">
-   
 ---
 
-- 👨‍💻 Mi nombre es Cain Cabrera Bertolazzi, me encuentro formandome profesionalmente como Desarrollador en la Tecnicatura Universitaria en Programacion en La facultad UTN.
+### 👋 Sobre mí
 
-#### 🔧 Languajes
+Soy **Caín Cabrera**, desarrollador backend Java con fuerte orientación al ecosistema Spring. Estoy cursando el último año de la **Tecnicatura Universitaria en Programación en UTN** y vengo construyendo proyectos propios donde aplico arquitectura limpia, buenas prácticas y testing.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+Me interesa el desarrollo de sistemas robustos, mantenibles y bien documentados. Siempre buscando aprender y crecer.
 
-#### 🔧 Tools
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Stack tecnológico
 
-#### 🔧 Contacto
+**Backend**
 
-[![Gmail](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](caincito.cabrera7@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2387D84B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541126663600)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+**Bases de datos**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
+**Testing**
 
- 
- <div align=center>
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+**DevOps & Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+**Frontend (en curso)**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**En curso**
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 🚀 Proyectos destacados
+
+#### 🥩 [Meat-Manager](https://github.com/Cain-Cabrera)
+Sistema de gestión integral para carnicería. Mi proyecto principal, en desarrollo activo.
+- **Arquitectura Hexagonal** con patrón Mediator
+- **PostgreSQL** + migraciones con **Flyway**
+- Testing con **JUnit** y **Mockito**
+- Despliegue con **Docker**
+- Documentación técnica continua
+
+#### 📦 [order-management-api](https://github.com/Cain-Cabrera)
+API RESTful para gestión de pedidos, clientes y productos.
+- **Spring Boot** + **JPA/Hibernate** + **MySQL**
+- Integraciones **REST y SOAP** + certificados HTTPS
+- Principios **SOLID** + arquitectura en capas
+- Tests unitarios + **Docker**
+
+#### 🗃️ [jdbc-crud-java](https://github.com/Cain-Cabrera)
+Sistema CRUD en Java puro con JDBC.
+- Patrón **DAO** + arquitectura en capas
+- Operaciones CRUD sobre **MySQL**
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cain-cabrera-286a882a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cain.cabrera.work@gmail.com)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cain-Cabrera&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=7f8c8d&line_height=25" alt="Cain-Cabrera's GitHub Stats">
-  <br /><br />
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
+
 </div>
-
-
-
