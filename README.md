@@ -85,11 +85,3 @@ Sistema CRUD en Java puro con JDBC.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cain-cabrera-286a882a8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cain.cabrera.work@gmail.com)
-
----
-
-<div align="center">
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
-
-</div>
